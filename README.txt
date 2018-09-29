@@ -1,6 +1,8 @@
 # TrackingAnalyzerTools
 
-# to install the libants library on Mac and Linux
+# The installation of TrackingAnalyzerTools requires
 
-1. go to the folder containing the source code and the Makefile, and type make
-2. then type sudo make install
+1. libants library
+
+# then you can simply go to the folder with the TrackingAnalyzerTools code and type make
+
