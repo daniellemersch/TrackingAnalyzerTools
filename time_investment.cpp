@@ -1,5 +1,6 @@
 /*
- *  Copyright (c) Danielle Mersch. All rights reserved.
+ *  Written by Danielle Mersch
+ *  Copyright Unil. All rights reserved.
  *  time_investment.cpp
  *  counts how many timesteps a given ant invests in the visit of various zones requested by the user and defined in a plume file
  *

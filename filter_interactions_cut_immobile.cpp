@@ -4,9 +4,9 @@
  *		between the same pair of ants belong to the same event or 2 distinct events 
  *	 ! expects time in input file in addition to frame number   
  * 
- *
- *  Copyright Danielle Mersch. All rights reserved.
+ *  Created by Danielle Mersch
  *  Modified by Nathalie Stroeymeyt (NS) in June 2016.
+ *  Copyright Unil. All rights reserved.
  *
  */
 

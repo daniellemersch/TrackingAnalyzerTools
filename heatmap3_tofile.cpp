@@ -1,8 +1,8 @@
 /*
  *  heatmap.cpp
  *  write text output file with x and y grid cells and counts
- *  Copyright Danielle Mersch. All rights reserved.
- *
+ *  Created by Danielle Mersch.
+ *  Copyright Unil. All rights reserved.
  */
 
 

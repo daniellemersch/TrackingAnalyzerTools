@@ -1,5 +1,7 @@
-// Copyright (c) Danielle Mersch. All rights reserved.
-//
+/*
+*  Created by Danielle Mersch
+*  Copyright Unil. All rights reserved.
+*/
 
 
 #include "trackconverter_functions.h"

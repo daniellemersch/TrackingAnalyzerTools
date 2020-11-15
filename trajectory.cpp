@@ -1,7 +1,8 @@
  /*
  *  Output for each tag a file with the spatial coordinates over time
  *
- *  Copyright (c) Danielle Mersch. All rights reserved.
+ *  Created by Danielle Mersch
+ *  Copyright Unil. All rights reserved.
  *
  */
 

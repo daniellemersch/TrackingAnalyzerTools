@@ -4,8 +4,8 @@
  *  to do this the programm uses the total distance in a given interval (INTERVAL) if the distance is below a threshold 
  *  for more than DEATH_DELAY intervals, then the ant is considered dead since DEATH frames
  *
- *  Copyright (c) Danielle Mersch. All rights reserved.
- *
+ *  Created by Danielle Mersch.
+ *  Copyright UNIL. All rights reserved.
  */
 
 

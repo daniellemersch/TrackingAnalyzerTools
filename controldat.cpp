@@ -1,8 +1,8 @@
 
 /*
  *  controldat.cpp
- *
- *  Copyright (c) Danielle Mersch. All rights reserved.
+ *  Created by Danielle Mersch
+ *  Copyright UNIL All rights reserved.
  *
  */
 

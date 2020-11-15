@@ -1,4 +1,7 @@
-//  Copyright (c) Danielle Mersch. All rights reserved.
+ /*
+ *  Created by Danielle Mersch
+ *  Copyright Unil. All rights reserved.
+*/
 
 /** @file trackconverter.cc
  *  \brief The program trackconverter.cpp sorts the frames of the csv files and writes a ordered csv file (part 1)

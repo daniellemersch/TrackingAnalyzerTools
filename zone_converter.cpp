@@ -3,7 +3,7 @@
  *  takes all detections (in a box) in a given zone defined in a plume file, 
  * and writes a new dat files in which these detections are labelled with a distinct ID
  *
- *  Copyright (c) Danielle Mersch. All rights reserved.
+ *  Created by Danielle Mersch.
  *
  */
 
